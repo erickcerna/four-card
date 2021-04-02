@@ -38,7 +38,7 @@ This is a screenshot of the desktop layout
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://four-card-feature-srna.netlify.app/)
+- Solution URL: [solution](https://four-card-feature-srna.netlify.app/)
 
 
 ## My process
@@ -125,7 +125,7 @@ I want to continue improving my knowledge in Flexbox and learn more about CSS Gr
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for Flexbox. 
+- [CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for Flexbox. 
 
 ## Author
 
